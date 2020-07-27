@@ -10,7 +10,6 @@
 <h1 align="center">DataWorkshop Foundation</h1>
 <h2 align="center">Warsaw Team Project #2 : Appointment No-Shows</h2>
 
----
 
 ## [Project Kanban Board](https://github.com/DataWorkshop-Foundation/warsaw-project-2/projects/1)
 > Main directory for informations on current stage of project, meetings schedule, notebooks and more.
