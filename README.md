@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/dataworkshop/dw-warsaw-project">
-    <img src="https://raw.githubusercontent.com/JBalcony/DataWorkshop_SMOG/master/DW_warsaw_logo/dw_waw_logo.png" alt="Logo" width=350 height=350>
+    <img src="https://github.com/JBalcony/DataWorkshop_Foundation_Project_2/blob/master/Logo/DWF_WAW_LOGO.jpg?raw=true" alt="Logo" width=600 height=600>
 </p>
 
 <br>
